@@ -16,7 +16,4 @@ int main(){
 int mainbaranch(){
     int a=10;
 }
-int feature1branch(){
-    int b=12;
-}
-//this is the feture1 branch
+//this is main branch
